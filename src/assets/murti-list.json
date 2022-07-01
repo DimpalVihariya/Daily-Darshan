@@ -1,0 +1,7 @@
+[
+    { "id": "1", "Name": "Bhagwan Swaminarayan" ,"img":"./assets/images/bapashri.jpg",  "city":"" },
+    { "id": "2", "Name": "Jivanpran Abjibapashri" ,"img":"./assets/images/Bapji.jpg", "city":"" },
+    { "id": "3", "Name": "HDH Bapji" ,"img":"./assets/images/murti.jpg",  "city":""  },
+    { "id": "4", "Name": "HDH Swamishri" ,"img":"./assets/images/murti.jpg", "city":"" },
+    { "id": "5", "Name": "Spiritual Successors" ,"img":"./assets/images/Bapji.jpg", "city":"" }
+]
